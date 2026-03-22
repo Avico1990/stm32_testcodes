@@ -1,0 +1,38 @@
+2026-03-22 00:18:35,920 [INFO] Activator:176 - 
+
+
+2026-03-22 00:18:35,922 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-22 00:18:39,746 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-22 00:18:44,708 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 12:18:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 00:18:44,713 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-03-22 00:18:44,713 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 00:18:44,730 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 12:18:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 00:18:44,738 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-03-22 00:18:44,739 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 00:18:44,739 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 12:18:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 00:18:44,739 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-03-22 00:18:44,739 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 00:18:44,748 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 12:18:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 00:18:44,748 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-03-22 00:18:44,748 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:27:43,905 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:27:55,402 [INFO] Activator:176 - 
+
+
+2026-03-22 01:27:55,404 [INFO] Activator:177 - !SESSION log4j initialized
+2026-03-22 01:27:58,743 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-03-22 01:28:00,314 [ERROR] ConfigurationRetriever:142 - IOException on connection: (internal_error) Received fatal alert: internal_error
+2026-03-22 01:28:01,350 [ERROR] ConfigurationRetriever:142 - IOException on connection: (internal_error) Received fatal alert: internal_error
+2026-03-22 01:28:02,551 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 1:28:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 01:28:02,552 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-03-22 01:28:02,553 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:28:02,556 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 1:28:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 01:28:02,557 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-03-22 01:28:02,558 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:28:41,681 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 1:28:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 01:28:41,682 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-03-22 01:28:41,682 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:28:41,684 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Mar 22, 2026 1:28:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-03-22 01:28:41,685 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-03-22 01:28:41,685 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-03-22 01:39:56,322 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
