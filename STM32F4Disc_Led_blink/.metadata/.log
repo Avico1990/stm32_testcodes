@@ -1,0 +1,58 @@
+!SESSION 2026-03-22 20:55:11.625 -----------------------------------------------
+eclipse.buildId=Version 2.1.1
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-03-22 20:55:27.491
+!MESSAGE Log4j2 initialized with config file E:\Study\STM32429_Discovery_Codes\LED_Blink\stm32_testcodes\STM32F4Disc_Led_blink\.metadata\.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-03-22 20:55:30.225
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-03-22 20:55:30.236
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-03-22 20:55:30.692
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-03-22 20:55:32.747
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-22 20:55:34.085
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-03-22 20:55:34.087
+!MESSAGE port: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:36.533
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-03-22 20:55:36.665
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:36.665
+!MESSAGE [Info]	[certificates] Removed 16 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:36.706
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:37.040
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:37.562
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:37.562
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-03-22 20:55:37.562
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY com.microsoft.copilot.eclipse.terminal.api 2 0 2026-03-22 20:55:37.644
+!MESSAGE Terminal dependencies not available. User needs to install them manually.
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-03-22 20:55:37.692
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined

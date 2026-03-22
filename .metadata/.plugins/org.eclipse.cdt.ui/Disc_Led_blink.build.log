@@ -1,10 +1,10 @@
-20:29:18 **** Incremental Build of configuration Debug for project Disc_Led_blink ****
+20:49:18 **** Incremental Build of configuration Debug for project Disc_Led_blink ****
 make -j12 all 
 arm-none-eabi-size  Disc_Led_blink.elf 
    text	   data	    bss	    dec	    hex	filename
-   6348	     12	   1572	   7932	   1efc	Disc_Led_blink.elf
+   6316	     12	   1572	   7900	   1edc	Disc_Led_blink.elf
 Finished building: default.size.stdout
  
 
-20:29:18 Build Finished. 0 errors, 0 warnings. (took 540ms)
+20:49:19 Build Finished. 0 errors, 0 warnings. (took 587ms)
 
